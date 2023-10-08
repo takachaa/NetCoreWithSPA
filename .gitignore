@@ -1,0 +1,60 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+*.rsuser
+*.suo
+
+# Rider
+.idea/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows
+*.dll
+*.exe
+*.pdb
+*.json
+*.resources
+*.config
+*.dat
+*.dev
+*.generated.cs
+*.ser
+*.xmlserializers.dll
+
+# TDS symbol store folder
+_tssymbols/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Vue (from wwwroot's .gitignore)
+.DS_Store
+wwwroot/node_modules/
+wwwroot/dist/
+wwwroot/.env.local
+wwwroot/.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
