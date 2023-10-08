@@ -37,18 +37,15 @@ $RECYCLE.BIN/
 # TDS symbol store folder
 _tssymbols/
 
-# Rider
-.idea/
-
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
 
-# Vue (from wwwroot's .gitignore)
+# Vue (considering the project folder)
 .DS_Store
-wwwroot/node_modules/
-wwwroot/dist/
-wwwroot/.env.local
-wwwroot/.env.*.local
+NetCoreWithSPA.WebApi/wwwroot/node_modules/
+NetCoreWithSPA.WebApi/wwwroot/dist/
+NetCoreWithSPA.WebApi/wwwroot/.env.local
+NetCoreWithSPA.WebApi/wwwroot/.env.*.local
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
